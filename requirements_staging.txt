@@ -51,7 +51,7 @@ readme-renderer==29.0
 requests==2.25.1
 requests-toolbelt==0.9.1
 safety==1.10.3
-setuptools==50.3.2
+setuptools==56.1.0
 six==1.15.0
 snowballstemmer==2.0.0
 sphinxcontrib-serializinghtml==1.1.4
