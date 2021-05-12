@@ -58,7 +58,7 @@ sphinxcontrib-serializinghtml==1.1.4
 sphinxcontrib-websupport==1.2.4
 text-unidecode==1.3
 toml==0.10.2
-tox==3.20.1
+tox==3.23.1
 tqdm==4.50.2
 travis==0.0.3
 twine==3.2.0
