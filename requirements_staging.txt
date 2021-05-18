@@ -62,7 +62,7 @@ tox==3.23.1
 tqdm==4.60.0
 travis==0.0.3
 twine==3.4.1
-urllib3==1.25.11
+urllib3==1.26.4
 virtualenv==20.0.35
 watchdog==0.10.3
 wcwidth==0.2.5
