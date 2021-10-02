@@ -24,7 +24,7 @@ docutils==0.17.1
 dparse==0.5.1
 entrypoints==0.3
 filelock==3.2.0
-flake8==3.8.4
+flake8==3.9.2
 idna==2.10
 imagesize==1.2.0
 importlib-metadata==2.0.0
