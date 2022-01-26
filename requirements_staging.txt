@@ -45,7 +45,7 @@ pyparsing==3.0.7
 pytest==6.2.5
 pytest-runner==5.3.1
 python-dateutil==2.8.2
-python-slugify==4.0.1
+python-slugify==5.0.2
 pytz==2020.1
 readme-renderer==27.0
 requests==2.24.0
