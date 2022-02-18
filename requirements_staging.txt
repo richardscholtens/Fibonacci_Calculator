@@ -3,7 +3,7 @@ click==8.0.3
 Jinja2==3.0.3
 MarkupSafe==2.1.0
 PyYAML==6.0
-Pygments==2.7.1
+Pygments==2.11.2
 Sphinx==3.2.1
 alabaster==0.7.12
 appdirs==1.4.4
