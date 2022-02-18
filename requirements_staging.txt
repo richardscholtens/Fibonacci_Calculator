@@ -8,7 +8,7 @@ Sphinx==4.4.0
 alabaster==0.7.12
 appdirs==1.4.4
 argh==0.26.2
-arrow==0.17.0
+arrow==1.2.2
 atomicwrites==1.4.0
 attrs==20.2.0
 binaryornot==0.4.4
