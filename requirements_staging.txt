@@ -63,7 +63,7 @@ tqdm==4.62.3
 travis==0.0.3
 twine==3.8.0
 urllib3==1.26.8
-virtualenv==20.0.35
+virtualenv==20.13.1
 watchdog==0.10.3
 wcwidth==0.2.5
 webencodings==0.5.1
